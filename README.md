@@ -19,9 +19,10 @@ TempResponse_A_thaliana: R scripts for analysis for temperature response of A. t
 
 FalseAssignment_O_sativa: R scripts for analysis on false-assignment rate in Lasy-Seq.  
 
+Comparison-conventinal-method_Lasy-Seq: R scripts for analysis on comparison of Lasy-Seq and the conventional RNA-Seq method.     
+
 script for RSEMout: Python scripts for preparing "rawcnt" and "rpm" files from RSEM data.  
 
-Comparison-conventinal-method_Lasy-Seq: R scripts for analysis on comparison of Lasy-Seq and the conventional RNA-Seq method.     
 
 # Usage
 Download https://github.com/naganolab/Lasy-Seq. 
