@@ -8,8 +8,8 @@ R version 3.5.0
 gridExtra version 2.3  
 TCC version 1.16.0  
 ggplot2 version 3.1.0  
-multtest version 2.36.0
-GO.db version 3.6.0
+multtest version 2.36.0  
+GO.db version 3.6.0  
 
 # Description
 The scripts for analysis and preparation of the figures of the below paper.
