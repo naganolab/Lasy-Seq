@@ -1,9 +1,0 @@
-name	year	month	day	hour	minute	library	index	conc	RIN	set	plant
-result-99	2017	NA	NA	NA	NA	osa	99	NA	NA	2017	Oriza sativa
-result-98	2017	NA	NA	NA	NA	osa	98	NA	NA	2017	Oriza sativa
-result-97	2017	NA	NA	NA	NA	osa	97	NA	NA	2017	Oriza sativa
-result-100	2017	NA	NA	NA	NA	osa	100	NA	NA	2017	Oriza sativa
-result-199	2017	NA	NA	NA	NA	osa	199	NA	NA	2017	Oriza sativa
-result-198	2017	NA	NA	NA	NA	osa	198	NA	NA	2017	Oriza sativa
-result-197	2017	NA	NA	NA	NA	osa	197	NA	NA	2017	Oriza sativa
-result-200	2017	NA	NA	NA	NA	osa	200	NA	NA	2017	Oriza sativa
