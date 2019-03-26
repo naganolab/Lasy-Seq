@@ -5,22 +5,21 @@ Mari Kamitani, Makoto Kashima, Ayumi Tezuka and Atsushi J. Nagano.
 
 # Dependencies
 R version 3.5.0  
-R libraries  
-  gridExtra version 2.3  
-  TCC version 1.16.0  
-  ggplot2 version 3.1.0  
-  multtest version 2.36.0  
-  GO.db version 3.6.0  
+gridExtra version 2.3  
+TCC version 1.16.0  
+ggplot2 version 3.1.0  
+multtest version 2.36.0  
+GO.db version 3.6.0  
 
 # Description
 The scripts for analysis and preparation of the figures of the below paper.
 The attribute of samples, gene description and the expression data (rpm) required for the analysis are included.
 
-  TempResponse_A_thaliana: R scripts for analysis for temperature response of A. thaliana.  
+TempResponse_A_thaliana: R scripts for analysis for temperature response of A. thaliana.  
 
-  ERCC_O_sativa: R scripts for analysis on false-assignment rate in Lasy-Seq.  
+FalseAssignment_O_sativa: R scripts for analysis on false-assignment rate in Lasy-Seq.  
 
-  script for RSEMout: Python scripts for preparing "rawcnt" and "rpm" files from RSEM data.  
+script for RSEMout: Python scripts for preparing "rawcnt" and "rpm" files from RSEM data.  
 
 # Usage
 Download https://github.com/naganolab/Lasy-Seq. 
