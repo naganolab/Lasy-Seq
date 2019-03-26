@@ -1,0 +1,12 @@
+Index	1	Lasy-Seq-12ng
+Index	2	Lasy-Seq-12ng
+Index	3	Lasy-Seq-12ng
+Index	4	Lasy-Seq-12ng
+Index	5	Lasy-Seq-12ng
+Index	6	Lasy-Seq-12ng
+Index	89	Randam
+Index	90	Randam
+Index	91	Randam
+Index	92	Randam
+Index	93	Randam
+Index	94	Randam
